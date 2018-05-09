@@ -1,0 +1,23 @@
+{
+  "name": "clickygame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SDF2019/clickygame.git"
+  },
+  "author": "Shamara D. funches",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SDF2019/clickygame/issues"
+  },
+  "homepage": "https://github.com/SDF2019/clickygame#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "webpack": "^4.8.1"
+  }
+}
